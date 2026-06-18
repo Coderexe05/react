@@ -37,7 +37,7 @@ function App(){
   return(
     <div>
       <h1>Student Card</h1>
-      <StudentCard name="prop" marks="30" grade="A"/>
+      <StudentCard name="prop" marks="320" grade="A"/>
     </div>
   );
   export default App;
